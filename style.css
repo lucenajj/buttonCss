@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    margin-top: 30px;
+}
+.botao{
+    width: 150px;
+    height: 150px;
+    background-color: #bd91e7;
+    text-decoration: none;
+    font-size: 40px;
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: bolder;
+    text-align: center;
+}
+.botao:hover{
+    background-color: #7f12e6;
+}
+a {
+    margin: auto;
+}
